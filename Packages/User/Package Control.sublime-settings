@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Package Control",
+		"Perforce",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Sublimerge"
+	]
+}
